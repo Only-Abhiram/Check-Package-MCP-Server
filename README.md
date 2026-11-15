@@ -14,6 +14,28 @@ It supports:
 - Cargo
 - Go
 
+More about the project: [checkpackage.abhiram.lol](https://checkpackage.abhiram.lol/)
+
+## Connect
+
+The remote MCP server is already deployed. Point your agent at:
+
+```
+https://package-reality-check.checkpackage.workers.dev/mcp
+```
+
+Example `mcp.json`:
+
+```json
+{
+  "mcpServers": {
+    "package-reality-check": {
+      "url": "https://package-reality-check.checkpackage.workers.dev/mcp"
+    }
+  }
+}
+```
+
 ## Tool
 
 `check_package` takes:
