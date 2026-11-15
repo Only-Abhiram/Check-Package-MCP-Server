@@ -1,6 +1,7 @@
 # package-reality-check
 
 [![M8ven Verified](https://m8ven.ai/badge/mcp/only-abhiram-check-package-mcp-server-jxn11f?variant=verified&v=5cc13135c221a6b820ea27e9104962db)](https://m8ven.ai/mcp/only-abhiram-check-package-mcp-server-jxn11f?s=readme)
+[![M8ven Verified](https://m8ven.ai/badge/mcp/only-abhiram/check-package-mcp-server?variant=verified)](https://m8ven.ai/mcp/only-abhiram/check-package-mcp-server?s=readme)
 
 An MCP server that checks whether a package really exists before you install it. It looks up the official registry so an agent can catch made-up package names.
 
