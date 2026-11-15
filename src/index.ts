@@ -246,7 +246,7 @@ function createServer() {
     "check_package",
     {
       description:
-        "Check whether a package exists in the official npm or PyPI registry. " +
+        "Check whether a package exists in the official npm, PyPI, Maven, NuGet, Cargo, or Go registry. " +
         "Use this tool before installing a dependency to help detect hallucinated package names.",
       inputSchema: z.object({
         ecosystem: z
